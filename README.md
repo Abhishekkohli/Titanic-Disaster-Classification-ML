@@ -1,1 +1,3 @@
 # Titanic-Disaster-Classification-ML
+
+TitanicClassification.py file contains the project based on binary classification. The dataset comprises the values of data related to passengers like name, age, gender, socio-economic status, etc., and a binary value of whether the passenger survived or not. The goal is to predict the survival of a passenger for the testing dataset. Techniques Used: Data preprocessing, mainly to handle invalid/missing values and categorical columns. Creative Feature Engineering. Data Visualization. Training on Random Forest Classifier and XGBoost Classifier machine learning models. Cross Validation metric for validation of the model.
